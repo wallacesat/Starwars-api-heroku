@@ -15,7 +15,7 @@ This is a simple Javascript REST API that provides fictitious data from elements
 After the server starts successfully, you can make requests to the end points of this api.
 
 ##### You will need a rest tool to make GET requests.
-> I recommend the  [Insomnia]([https://insomnia.rest/download/](https://insomnia.rest/download/)).
+> I recommend the  [Insomnia](https://insomnia.rest/download/).
 
 ##### GET request example:
 Request
@@ -67,21 +67,21 @@ Use page parameter to fetch more data.
 
 ##  Frameworks
 
-#### [ExpressJS]([https://expressjs.com/](https://expressjs.com/))
+#### [ExpressJS](https://expressjs.com/)
 For management of routing system, routes, HTTP requests and responses.
 
-#### [Mongoose]([https://mongoosejs.com/](https://mongoosejs.com/))
+#### [Mongoose](https://mongoosejs.com/)
 To manage database connections.
 
 ##  Database
 
-#### [MongoDB Atlas]([https://cloud.mongodb.com](https://cloud.mongodb.com/))
+#### [MongoDB Atlas](https://cloud.mongodb.com/)
 For the storage of dummy data to be accessed by api, whose data follow the paradigm of the nonrelational model.
 
 ##  Languages
 
-- Javascript - [w3school: JS tutorial]([https://www.w3schools.com/js/](https://www.w3schools.com/js/))
-- ES6 - [ECMAScript 2015: Specification]([https://www.ecma-international.org/ecma-262/6.0/](https://www.ecma-international.org/ecma-262/6.0/))
+- Javascript - [w3school: JS tutorial](https://www.w3schools.com/js/)
+- ES6 - [ECMAScript 2015: Specification](https://www.ecma-international.org/ecma-262/6.0/)
 
 ## License
-MIT ©  [wallacesat]([https://github.com/wallacesat/](https://github.com/wallacesat/))
+MIT ©  [wallacesat](https://github.com/wallacesat/)
